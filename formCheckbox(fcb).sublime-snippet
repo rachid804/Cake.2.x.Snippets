@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[
+<?php echo \$this->Form->checkbox(${1:fieldName}, array(${2:options})); ?>
+]]></content>
+    <tabTrigger>fcb</tabTrigger>
+</snippet>
