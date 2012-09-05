@@ -1,0 +1,12 @@
+
+<snippet>
+    <content><![CDATA[
+
+public function beforeValidate() {
+   
+    $1
+}
+]]></content>
+    <tabTrigger>bv</tabTrigger>
+    <description>..beforeFilter...</description>
+</snippet>

@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * hasMany associations
+ *
+ * @var array
+ */
+public \$hasMany = array(
+	'$1' => array(
+		'className' => '$2',
+		'foreignKey' => '$3',
+		'dependent' => false,
+		'conditions' => '',
+		'fields' => '',
+		'order' => '',
+		'limit' => '',
+		'offset' => '',
+		'exclusive' => '',
+		'finderQuery' => '',
+		'counterQuery' => ''
+	)
+);
+]]></content>
+	<tabTrigger>hm</tabTrigger>
+</snippet>

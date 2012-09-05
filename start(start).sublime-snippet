@@ -1,0 +1,10 @@
+
+<snippet>
+    <content><![CDATA[
+
+\$this->start(${1:name});
+
+]]></content>
+    <tabTrigger>start</tabTrigger>
+    <description>..Html->addCrumn...</description>
+</snippet>

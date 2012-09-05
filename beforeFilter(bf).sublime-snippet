@@ -1,0 +1,12 @@
+
+<snippet>
+    <content><![CDATA[
+
+public function beforeFilter() {
+    parent::beforeFilter();
+    $1
+}
+]]></content>
+    <tabTrigger>bf</tabTrigger>
+    <description>..beforeFilter...</description>
+</snippet>

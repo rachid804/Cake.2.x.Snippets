@@ -1,0 +1,10 @@
+
+<snippet>
+    <content><![CDATA[
+
+\$this->Html->addCrumb(${1:name}, ${2:link}, ${3:options});
+
+]]></content>
+    <tabTrigger>ac</tabTrigger>
+    <description>..Html->addCrumn...</description>
+</snippet>
