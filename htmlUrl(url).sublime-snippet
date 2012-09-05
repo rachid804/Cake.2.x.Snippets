@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-echo \$this->Html->url(array("controller" => "#{1:controller}","action" => "#{2:controller}",#3));
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>url</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
-</snippet>

@@ -1,8 +1,0 @@
-
-<snippet>
-    <content><![CDATA[
-<?php echo \$this->element('$1');?>
-]]></content>
-    <tabTrigger>el</tabTrigger>
-    <description>...$this->element...</description>
-</snippet>
